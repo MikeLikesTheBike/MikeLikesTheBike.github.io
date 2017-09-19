@@ -5,3 +5,19 @@ background-color: grey;
 h1 {
 color: red; 
 }
+
+.hero-section {
+  background: url("https://static-cdn.jtvnw.net/jtv_user_pictures/tillyexalted-profile_banner-c8ae6678b9936d0a-480.png") 50% no-repeat;
+  background-size: cover;
+  height: 60vh;
+  text-align: center;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
