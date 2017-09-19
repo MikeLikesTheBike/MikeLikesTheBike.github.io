@@ -23,3 +23,13 @@ color: red;
       -ms-flex-pack: center;
           justify-content: center;
 }
+
+.headerimg {
+  width: 100%;
+}
+
+.himg {
+  max-width:100%;
+	height:auto;
+}
+    
