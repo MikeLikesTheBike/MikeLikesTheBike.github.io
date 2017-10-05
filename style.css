@@ -33,4 +33,10 @@ color: red;
 	height:auto;
 	width: 100%;
 }
-    
+    @media screen and (min-width: 480px) {
+   .himg {
+  max-width:100%;
+	min-height:30%;
+	width: 100%;
+}
+}
