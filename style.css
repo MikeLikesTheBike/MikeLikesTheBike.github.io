@@ -33,7 +33,7 @@ color: red;
 	height:auto;
 	width: 100%;
 }
-    @media screen and (min-width: 480px) {
+    @media screen and (max-width: 480px) {
    .himg {
   max-width:100%;
 	min-height:30%;
