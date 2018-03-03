@@ -271,7 +271,7 @@ font-family: sans-serif;
 }
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
      
      .imgcenter {
     margin-left: auto;
@@ -285,7 +285,7 @@ font-family: sans-serif;
     padding: 10px;
     margin-left: auto;
     margin-right: auto;
-    width:276px;
+    width:195px;
     background-color:#414347;
     border-radius: 10px;
     
